@@ -2562,8 +2562,8 @@ input, select, textarea {
 /* Image */
 
 	.image {
+		border: 2px solid #6a6a6a;
 		border-radius: 0.25em;
-		border: 5;
 		display: inline-block;
 		position: relative;
 	}
